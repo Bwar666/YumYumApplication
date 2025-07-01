@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869783138598",
+    "project_id": "capp-2df2d",
+    "storage_bucket": "capp-2df2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869783138598:android:1c3534c28b95c6423611e7",
+        "android_client_info": {
+          "package_name": "com.example.cap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869783138598-7icd0p85312s3j5dhjsate2p1ts48tud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2irOhF7pgtNIPweRfFxhpp0YPtGCWcbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869783138598-7icd0p85312s3j5dhjsate2p1ts48tud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
